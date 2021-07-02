@@ -1,0 +1,5 @@
+﻿  CircleQueue.c
+  TestMain.c
+  正在生成代码...
+D:\源库\源代码\比特\数据结构\数据结构鲍哥\Datastruct逺用数组实现循环队列\Datastruct逺用数组实现循环队列\TestMain.c(16,36): warning C4013:  “QueueFront”未定义；假设外部返回 int
+  Datastruct逺用数组实现循环队列.vcxproj -> D:\源库\源代码\比特\数据结构\数据结构鲍哥\Datastruct逺用数组实现循环队列\Debug\Datastruct逺用数组实现循环队列.exe

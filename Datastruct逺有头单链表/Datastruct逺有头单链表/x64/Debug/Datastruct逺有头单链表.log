@@ -1,0 +1,3 @@
+﻿  SList.c
+D:\源库\源代码\比特\数据结构\数据结构鲍哥\Datastruct逺有头单链表\Datastruct逺有头单链表\SList.c(195,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Datastruct逺有头单链表.vcxproj -> D:\源库\源代码\比特\数据结构\数据结构鲍哥\Datastruct逺有头单链表\x64\Debug\Datastruct逺有头单链表.exe
